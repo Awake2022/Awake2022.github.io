@@ -31,7 +31,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  <img src="./img/hollow-knight-6.original.jpg">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
@@ -39,7 +39,7 @@
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![그림](./img/hollow-knight-6.original.jpg)
 
 <br><br>
 
