@@ -85,7 +85,7 @@
 ## 2. 이야기
 
 [만들게 된 배경]  
-	최근 메트로배니아 장르의 Ori and the Will of the Wisps 게임을 하고 이 장르의 게임들을 알아보다가 Hollow Knight와 ENDER LILIES: Quietus of the Knights라는 게임을 알게 되었다. 그래서 이와 똑같이는 아니더라도 비슷한 게임을 만들어보고 싶었고 기존에 내 상상으로 하던 세계관을 구현해 보자는 생각을 해서 기획하게 되었다.
+최근 메트로배니아 장르의 Ori and the Will of the Wisps 게임을 하고 이 장르의 게임들을 알아보다가 Hollow Knight와 ENDER LILIES: Quietus of the Knights라는 게임을 알게 되었다. 그래서 이와 똑같이는 아니더라도 비슷한 게임을 만들어보고 싶었고 기존에 내 상상으로 하던 세계관을 구현해 보자는 생각을 해서 기획하게 되었다.
 
 [카메라 관점]  
 2D 횡스크롤 방식으로 카메라는 Player에 고정되어 Player의 움직임에 따라 같이 따라 움직인다
