@@ -129,11 +129,11 @@ Unity 엔진을 이용한 PC 2D 게임으로 개발할
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|Player|<img src="./img/임시_Player.png">|
-|2|Enemy|
-|3|Boss|
-|4|NPC|
-|5|Player_Skill|
-|6|Enemy_Skill|
+|2|Enemy|<img src="./img/임시_Enemy.png">|
+|3|Boss|<img src="./img/임시_Boss.png">|
+|4|NPC|<img src="./img/임시_NPC.png">|
+|5|Player_Skill|<img src="./img/임시_Player_Skill.png">|
+|6|Enemy_Skill|<img src="./img/임시_Enemy_Skill.png">|
 
 <br>
 
