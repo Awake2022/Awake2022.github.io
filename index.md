@@ -128,7 +128,7 @@ Unity 엔진을 이용한 PC 2D 게임으로 개발할
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|Player|
+|1|Player|<img src="./img/임시_Player.png">|
 |2|Enemy|
 |3|Boss|
 |4|NPC|
