@@ -83,7 +83,7 @@
 - 이미지  
   <img src="./img/hollow-knight-6.original.jpg">
 - 동영상
-  [![그림](./img/관련 동영상 이미지.jpg)](https://www.youtube.com/watch?v=D-f0-gfRQec)
+  [![그림](./img/동영상 이미지.jpg)](https://www.youtube.com/watch?v=D-f0-gfRQec)
 
 <br><br>
 
