@@ -601,17 +601,13 @@
 <br>
 
 ### 작업 결과 동영상
-
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91927905/145837212-c49c9bf3-bf6a-47de-98fc-0bff8c4c3bb8.mp4">
    </video>
-  
 <br>
 
-
-
-
+  
 ## [2주차 작업 목표] <a name='10-2'></a>
 
 ### 작업명 : 플레이어 캐릭터 부동 자세 및 공격 자세, 적 캐릭터 움직임 
