@@ -603,7 +603,7 @@
 ### 작업 결과 동영상
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
-     <source src="https://user-images.githubusercontent.com/91927905/145837212-c49c9bf3-bf6a-47de-98fc-0bff8c4c3bb8.mp4">
+     <source src="1주차 작업 결과.mp4" type="img/mp4">
    </video>
 <br>
 
