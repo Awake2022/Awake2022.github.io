@@ -601,11 +601,8 @@
 <br>
 
 ### 작업 결과 동영상
-   <figure class="video_container">
-    <video controls="true" allowfullscreen="true" poster="black.png">
-     <source src="1주차 작업 결과.mp4" type="video/mp4">
-   </video>
-<br>
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/6Week.mp4" type="video/mp4"></video>
 
   
 ## [2주차 작업 목표] <a name='10-2'></a>
