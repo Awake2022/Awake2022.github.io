@@ -602,9 +602,12 @@
 
 ### 작업 결과 동영상
    <video width="100%" height="100%" controls="controls">
-    <source src="./img/6Week.mp4" type="video/mp4"></video>
+    <source src="./img/1주차 작업 결과.mp4" type="video/mp4"></video>
+    
+<br>
 
-  
+
+
 ## [2주차 작업 목표] <a name='10-2'></a>
 
 ### 작업명 : 플레이어 캐릭터 부동 자세 및 공격 자세, 적 캐릭터 움직임 
@@ -643,6 +646,12 @@
 
 <br>
 
+### 작업 결과 동영상
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/2주차 작업 결과.mp4" type="video/mp4"></video>
+    
+<br>
+
 
 
 ## [3주차 작업 목표] <a name='10-3'></a>
@@ -671,6 +680,12 @@
 4. 적이 남아있을 때 작동하는 필드 경계 구현 (100%)
 5. 남아있는 적 수를 나타내는 UI 구현 (75%)
 
+<br>
+
+### 작업 결과 동영상
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/3주차 작업 결과.mp4" type="video/mp4"></video>
+    
 <br>
 
 
@@ -706,6 +721,12 @@
 
 <br>
 
+### 작업 결과 동영상
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/4주차 작업 결과.mp4" type="video/mp4"></video>
+    
+<br>
+
 
 
 ## [5주차 작업 목표] <a name='10-5'></a>
@@ -736,6 +757,12 @@
 
 <br>
 
+### 작업 결과 동영상
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/5주차 작업 결과.mp4" type="video/mp4"></video>
+    
+<br>
+
 
 
 ## [6주차 작업 목표] <a name='10-6'></a>
@@ -761,4 +788,13 @@
 2. UI 폰트 및 이미지 개선 (70%)
 3. 캐릭터 모션 및 AI 개선 (60%)
 4. 스테이지 구성 요소 개선 (70%)
+
+<br>
+
+### 작업 결과 동영상
+   <video width="100%" height="100%" controls="controls">
+    <source src="./img/6주차 작업 결과.mp4" type="video/mp4"></video>
+    
+<br>
+
 
