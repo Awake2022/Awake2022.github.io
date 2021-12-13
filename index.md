@@ -602,8 +602,8 @@
 
 ### 작업 결과 동영상
    <figure class="video_container">
-   <video controls="true" allowfullscreen="true" poster="black.png">
-     <source src="1주차 작업 결과.mp4" type="img/mp4">
+    <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="1주차 작업 결과.mp4" type="video/mp4">
    </video>
 <br>
 
